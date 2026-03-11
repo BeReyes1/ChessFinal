@@ -1,0 +1,9 @@
+C:/Users/Super/OneDrive/Pictures/C++Code/Chessfinal/Chess-main/Chess-main/build/CMakeFiles/Experimental.dir
+C:/Users/Super/OneDrive/Pictures/C++Code/Chessfinal/Chess-main/Chess-main/build/CMakeFiles/Nightly.dir
+C:/Users/Super/OneDrive/Pictures/C++Code/Chessfinal/Chess-main/Chess-main/build/CMakeFiles/Continuous.dir
+C:/Users/Super/OneDrive/Pictures/C++Code/Chessfinal/Chess-main/Chess-main/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/Super/OneDrive/Pictures/C++Code/Chessfinal/Chess-main/Chess-main/build/CMakeFiles/demo.dir
+C:/Users/Super/OneDrive/Pictures/C++Code/Chessfinal/Chess-main/Chess-main/build/CMakeFiles/PACKAGE.dir
+C:/Users/Super/OneDrive/Pictures/C++Code/Chessfinal/Chess-main/Chess-main/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Super/OneDrive/Pictures/C++Code/Chessfinal/Chess-main/Chess-main/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Super/OneDrive/Pictures/C++Code/Chessfinal/Chess-main/Chess-main/build/CMakeFiles/ZERO_CHECK.dir

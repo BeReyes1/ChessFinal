@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-MSBuild"
+	BuildStamp="20260212-1904-Experimental"
+	Name="P5RBeckham"
+	Generator="ctest-4.2.1"
+	CompilerName="C:/Program Files/Microsoft Visual Studio/18/Insiders/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/cl.exe"
+	CompilerVersion="19.50.35721.0"
+	OSName="Windows"
+	Hostname="P5RBeckham"
+	OSRelease="10.0.26200"
+	OSVersion="Windows 10"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="10"
+	ModelName=""
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="10"
+	TotalVirtualMemory="25342"
+	TotalPhysicalMemory="16095"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="1700"
+	>
+	<Testing>
+		<StartDateTime>Mar 10 17:29 Pacific Daylight Time</StartDateTime>
+		<StartTestTime>1773188966</StartTestTime>
+		<TestList/>
+		<EndDateTime>Mar 10 17:29 Pacific Daylight Time</EndDateTime>
+		<EndTestTime>1773188966</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

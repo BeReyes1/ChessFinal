@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Super\OneDrive\Pictures\C++Code\Chessfinal\Chess-main\Chess-main\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Super\OneDrive\Pictures\C++Code\Chessfinal\Chess-main\Chess-main\imgui\imgui_demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Super\OneDrive\Pictures\C++Code\Chessfinal\Chess-main\Chess-main\imgui\imgui_draw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Super\OneDrive\Pictures\C++Code\Chessfinal\Chess-main\Chess-main\imgui\imgui_tables.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Super\OneDrive\Pictures\C++Code\Chessfinal\Chess-main\Chess-main\imgui\imgui_widgets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Super\OneDrive\Pictures\C++Code\Chessfinal\Chess-main\Chess-main\imgui\imgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Super\OneDrive\Pictures\C++Code\Chessfinal\Chess-main\Chess-main\classes\Bit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Super\OneDrive\Pictures\C++Code\Chessfinal\Chess-main\Chess-main\classes\BitHolder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Super\OneDrive\Pictures\C++Code\Chessfinal\Chess-main\Chess-main\classes\Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Super\OneDrive\Pictures\C++Code\Chessfinal\Chess-main\Chess-main\classes\Sprite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Super\OneDrive\Pictures\C++Code\Chessfinal\Chess-main\Chess-main\classes\Square.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Super\OneDrive\Pictures\C++Code\Chessfinal\Chess-main\Chess-main\classes\ChessSquare.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Super\OneDrive\Pictures\C++Code\Chessfinal\Chess-main\Chess-main\classes\Grid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Super\OneDrive\Pictures\C++Code\Chessfinal\Chess-main\Chess-main\classes\TicTacToe.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Super\OneDrive\Pictures\C++Code\Chessfinal\Chess-main\Chess-main\classes\Checkers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Super\OneDrive\Pictures\C++Code\Chessfinal\Chess-main\Chess-main\classes\Othello.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Super\OneDrive\Pictures\C++Code\Chessfinal\Chess-main\Chess-main\classes\Chess.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Super\OneDrive\Pictures\C++Code\Chessfinal\Chess-main\Chess-main\imgui\imgui_impl_dx11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Super\OneDrive\Pictures\C++Code\Chessfinal\Chess-main\Chess-main\main_win32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Super\OneDrive\Pictures\C++Code\Chessfinal\Chess-main\Chess-main\imgui\imgui_impl_win32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Super\OneDrive\Pictures\C++Code\Chessfinal\Chess-main\Chess-main\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D2D225B6-9B48-382F-826B-6F1B6B42A39E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
