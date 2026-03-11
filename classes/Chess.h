@@ -64,5 +64,11 @@ private:
     BitboardElement kingMoves(BitboardElement king);
     BitboardElement pawnMoves(BitboardElement pawns, BitboardElement empty, BitboardElement enemy, bool isWhite);
 
+    void applyMove(const BitMove& move, int color);
+    int aiNegamax(int depth, int alpha, int beta, int color);
+    int evaluateBoard();
+    void updateAI();
+    bool gameHasAI() override;
+    std:: vector<BitMove> generateMoves(int playerColor);
     Grid* _grid;
 };
